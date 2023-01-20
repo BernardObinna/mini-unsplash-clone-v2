@@ -34,7 +34,7 @@
       </div>
     </div>
 
-    <div class="main">
+    <div class="main" style="margin-top: 5rem;">
       <div v-masonry origin-left="true" transition-duration="1s" gutter="36" item-selector=".item">
         <div class="main-body">
           <div
